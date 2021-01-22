@@ -4,3 +4,4 @@ div { width: 50%; height: 50%; float: left; text-align: center;}
 #div2 { background: #AAA; }
 #div3 { background: #777; }
 #div4 { background: #444; }
+#graph { zoom: 0.75; -moz-transform: scale(0.75); -moz-transform-origin: 0 0; }
